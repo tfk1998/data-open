@@ -26,7 +26,7 @@ Puppeteer+mock.js+whats-element+moment.js+echarts+jest+jscpd+fastclick
     - http、工具类
   - ##### 测试
     - 编写测试用例、黑盒测试、编写单元测试、e2e测试 
-    - 工具类、请求库
+    - 工具类、请求库、Mock服务搭建
   - ##### Git管理
     - CodeReview、分支管理、制定开源模式git规范
   
