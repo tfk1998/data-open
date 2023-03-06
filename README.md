@@ -44,8 +44,9 @@ Puppeteer+mock.js+whats-element+moment.js+echarts+jest+jscpd+fastclick
   - 使用keepAlive对个模块的分析板块进行动态缓存，http缓存，预加载，实现秒开提高用户体验。
 #### 项目展示
 ![dataopen-1](https://user-images.githubusercontent.com/58834537/223069635-17f9ffbe-f5e3-4684-a66b-95ac1d3ec71b.png)
-![dataopen2](https://user-images.githubusercontent.com/58834537/223069852-730ca06c-0a66-40c1-a9ad-d95929787986.png)
+![dataopen6](https://user-images.githubusercontent.com/58834537/223072486-626eb823-48f2-44b7-af3b-f4cd34320ab3.png)
 ![dataopen4](https://user-images.githubusercontent.com/58834537/223070608-13098f4e-48fa-4dab-ae03-efa0751aff9a.png)
-![dataopen5](https://user-images.githubusercontent.com/58834537/223070621-cab11ea8-85f7-4309-aae5-f2f08bbf303f.png)
+![dataopen8](https://user-images.githubusercontent.com/58834537/223072317-b2fd122a-3cd0-406e-bc92-8435504c3ac0.png)
+
 
 
