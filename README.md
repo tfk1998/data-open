@@ -42,3 +42,4 @@ Puppeteer+mock.js+whats-element+moment.js+echarts+jest+jscpd+fastclick
   - 使用Vue-router+vuex实现动态路由权限分配。
   - 使用模块化、组件化、插件化思想对业务和工程进行分离，保证项目易维护、易迭代。
   - 使用keepAlive对个模块的分析板块进行动态缓存，http缓存，预加载，实现秒开提高用户体验。
+#### 项目展示
