@@ -20,8 +20,10 @@ Puppeteer+mock.js+whats-element+moment.js+echarts+jest+jscpd+fastclick
     - 自定义日期选择器
     - 可视化容器、tabBar、
     - 列表懒加载容器
+    - 自定义指令封装
   - ##### 封装SDK
     - 封装echart antv 
+    - http、工具类
   - ##### 测试
     - 编写测试用例、黑盒测试、编写单元测试、e2e测试 
     - 工具类、请求库
